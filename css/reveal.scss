@@ -478,6 +478,9 @@ html:-moz-full-screen-ancestor {
 	opacity: 0;
 }
 
+.reveal .slides section[data-vertical-align-top]{
+  top: 0 !important;
+}
 
 /*********************************************
  * Mixins for readability of transitions
